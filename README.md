@@ -31,11 +31,11 @@ BorçYönetim, borçlarınızı ve alacaklarınızı kolayca takip etmenizi sağ
 - Borç veya Alacak Ekleme
 - Ana ekranda + butonuna tıklayın.
 - Borç veya alacak bilgilerini girin (isim, miktar, tarih, açıklama).
-Ekle butonuna tıklayarak kaydedin.
-Borç veya Alacak Düzenleme
-Listeden düzenlemek istediğiniz borç veya alacağın üzerine tıklayın.
-Açılan pencerede bilgileri güncelleyin.
-Güncelle butonuna tıklayarak kaydedin.
-Borç veya Alacak Silme
-Listeden silmek istediğiniz borç veya alacağın üzerine tıklayın.
-Açılan pencerede çöp kutusu simgesine tıklayarak silin.
+- Ekle butonuna tıklayarak kaydedin.
+- Borç veya Alacak Düzenleme
+- Listeden düzenlemek istediğiniz borç veya alacağın üzerine tıklayın.
+- Açılan pencerede bilgileri güncelleyin.
+- Güncelle butonuna tıklayarak kaydedin.
+- Borç veya Alacak Silme
+- Listeden silmek istediğiniz borç veya alacağın üzerine tıklayın.
+- Açılan pencerede çöp kutusu simgesine tıklayarak silin.
