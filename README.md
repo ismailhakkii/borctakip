@@ -28,9 +28,9 @@ BorçYönetim, borçlarınızı ve alacaklarınızı kolayca takip etmenizi sağ
    ```bash
    git clone https://github.com/kullaniciadi/borc-yonetim.git
 ## Kullanım
-Borç veya Alacak Ekleme
-Ana ekranda + butonuna tıklayın.
-Borç veya alacak bilgilerini girin (isim, miktar, tarih, açıklama).
+- Borç veya Alacak Ekleme
+- Ana ekranda + butonuna tıklayın.
+- Borç veya alacak bilgilerini girin (isim, miktar, tarih, açıklama).
 Ekle butonuna tıklayarak kaydedin.
 Borç veya Alacak Düzenleme
 Listeden düzenlemek istediğiniz borç veya alacağın üzerine tıklayın.
